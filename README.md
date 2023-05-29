@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm revanasiddha savadi</h1>
+<h1 align="center">Namaste 🙏, I'm revaan, it's a pleasure to meet you! </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Qkart-FrontEnd**
