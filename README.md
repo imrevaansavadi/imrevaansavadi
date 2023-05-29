@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 🙏, I'm revaan, it's a pleasure to meet you! </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Qkart-FrontEnd**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **reactJS,**
 
