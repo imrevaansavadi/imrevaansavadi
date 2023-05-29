@@ -1,9 +1,9 @@
 <h1 align="center">Namaste 🙏, I'm revaan, it's a pleasure to meet you! </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **QKART-Front-End**
 
-- 🌱 I’m currently learning **reactJS,**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,ReactJS**
 
