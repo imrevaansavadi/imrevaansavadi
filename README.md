@@ -57,8 +57,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Can You  Save My Contributions From Snake
-![snake gif](https://github.com/imrevaansavadi/imrevaansavadi/blob/output/github-contribution-grid-snake.svg)
 
 ## 📧 Connect with me:
 
